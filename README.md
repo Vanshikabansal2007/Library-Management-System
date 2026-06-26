@@ -25,6 +25,12 @@ A simple Library Management System developed using Python and Object-Oriented Pr
 - member.py
 - library.py
 
+## Technologies Used
+
+- Python 3
+- Object-Oriented Programming (OOP)
+- VS Code
+
 ## How to Run
 
 ```bash
